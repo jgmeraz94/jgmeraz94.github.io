@@ -9,12 +9,8 @@ const texts = [
     "Are",
     "Reading",
     "This",
-    "Find",
-    "Me",
-    "Some",
-    "Big",
-    "Booty",
-    "Latinas"
+    "Si",
+    "Mames"
 ];
 
 const morphTime = 1;
